@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2025 Feb
+- GOAT: A Generalized Cross-Dataset Activity Recognition Framework with Natural Language Supervision, IMWUT 2024 ```C1M1E1L1``` (Human Pose Estimation, Sparse IMU, NLP) [[paper](https://dl.acm.org/doi/10.1145/3699736)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/IMWUT/IMWUT_2024/GOAT-%20A%20Generalized%20Cross-Dataset%20Activity%20Recognition%20Framework%20with%20Natural%20Language%20Supervision.pdf)]
 - ActivityPoser: Activity driven Full-Body Pose Estimation from Sparse IMU Configurations, SUI 2022 ```C2M2E1L2``` (Human Pose Estimation, Sparse IMU) [[paper](https://dl.acm.org/doi/10.1145/3565970.3567687)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/SUI/SUI_2022/ActivityPoser-%20Activity%20driven%20Full-Body%20Pose%20Estimation%20from%20Sparse%20IMU%20Configurations.pdf)]
 
 Y2025 Jan
